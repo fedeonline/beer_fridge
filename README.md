@@ -1,4 +1,4 @@
-# beer_fridge
+# Beer fridge
 
 A new Flutter project.
 
